@@ -1,8 +1,6 @@
 # hey
-
-~~i'm trying to learn to code this summer~~ <br>
-update: i realised that coding is a journey, not the destination
-
+🌮🐱did you know that a 'taco cat' backwards is also a 'taco cat'?🌮🐱
+![gif with dancing cat](https://cdn.discordapp.com/attachments/874764025731375154/1142945167091978413/dancing_cat.gif)
 ## About me
 
 i like cats
