@@ -6,4 +6,4 @@
 
 i like cats
 
-![wakatime](https://wakatime.com/badge/user/30b3f1b0-5862-4a7e-a4d9-2fa95e07d578.svg)
+![wakatime](wakatime.svg)
